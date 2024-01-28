@@ -24,7 +24,7 @@ Technology (2021), Erode
 Full Stack Developer February 2021- Present
 
 ## Projects
-- [[EPO- (https://eventplanon.com/)]]
+- [EPO- (https://eventplanon.com/)]
 
 ## Contact
 - Email: vigneshsenthil3006@gmail.com
