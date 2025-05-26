@@ -26,6 +26,6 @@ Full Stack Developer February 2021- Present
 ## Projects
 - [EPO- (https://eventplanon.com/)]
 
-## Contact
+## Contact:
 - Email: vigneshsenthil3006@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vignesh-s-019101241/)
